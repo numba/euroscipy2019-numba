@@ -1,6 +1,6 @@
-# pydata-amsterdam2019-numba
+# euroscipy2019-numba
 
-Numba tutorial notebooks for PyData Amsterdam 2019 conference
+Numba tutorial notebooks for EuroSciPy 2019 conference
 
 # Dependencies
 
